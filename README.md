@@ -1,5 +1,4 @@
 # CouponSystemProject
------------------------------------------CouponSystem----------------------------------------------
 This program can be used for different operations with coupons. For using all the functions first you need to be logged in.
 There are 3 options to log in - as administrator, as company or as an customer.
 Administrator can add, remove and change all the dataof companies, customers and coupons in the DataBase.
